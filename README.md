@@ -16,7 +16,8 @@
 
 # 🏥 Open Sauced Hub `.github`
 
-This repository contains the common community health files for OSH's open source projects. These policies are adopted by OSH:
+This repository contains the common community health files for OSH's open source projects. These
+policies are adopted by OSH:
 
 - [Code of Conduct](../.github/CODE_OF_CONDUCT.md)
 - [Contributing Guidelines](../.github/CONTRIBUTING.md)
@@ -26,4 +27,5 @@ This repository contains the common community health files for OSH's open source
 
 Other files included in this repository are:
 
-- [signatures.json](./signatures/version1/signatures.json) contains the list of users who have signed our CLA
+- [signatures.json](./signatures/version1/signatures.json) contains the list of users who have
+  signed our CLA
